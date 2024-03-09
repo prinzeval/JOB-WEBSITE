@@ -18,7 +18,7 @@ JOBS = [
     },
       {
         'id':3,
-        'title': 'Data Engineer',
+        'title': 'Monkey analyst',
         'location': 'Remote',
         'salary':  '$150,000'
     },
