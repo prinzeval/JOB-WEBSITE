@@ -1,0 +1,68 @@
+h1{
+    font-size: 40px;
+    font-family:'Times New Roman';
+    font-style: normal;
+    color:rgb(00 00 00);
+    text-align: center;
+
+}
+#logo{
+    width: 40%;
+    height:40%;
+    margin-left:200px;
+    margin: none;
+    border-radius:500px ;
+    border: solid black;
+}
+h2{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: 100px;
+    color:black;
+    text-align:center;   
+}
+#container{
+    max-width:720px;   
+    margin: 0 auto;
+    background-color: bisque;
+    padding: 5rem;
+  
+}
+#container h3{
+    font-size:20px;
+}
+.button{
+    text-align:center;
+    border:solid;
+    color: white;
+    height: 50px;
+    width:150px;
+    border-radius: 50px;
+    background-color:brown;
+    align-self: center;  
+    margin:0 auto;
+    margin-top: 20px;
+}
+.button:hover{
+    background-color:bisque;
+    color:black;
+
+}
+h4{
+    color:rgb(120,120,120);
+    font-size: 20px;    
+    margin-block-end:0;   
+    font-weight: bold;
+  }
+.location{
+    color:black;
+}
+.border_body{
+    border-bottom: 1px solid black;  
+    margin-bottom: 1px;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;      
+}.salary{
+    margin-bottom: 5px;
+}
