@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    {% include 'navbar.html' %}
     <div id="container">
 
         <h1>{{company_name}} Careers</h1>
@@ -30,9 +31,10 @@
             {% endfor %}
         </div>
         <div class='button'>
-            <p>Contact Us</p>
+            <a href="mailto:vallen@gmail.com?" >Contact Us</a>
         </div>
     </div>
+    {% include "footer.html" %}
 
 </body>
 
