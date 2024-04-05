@@ -19,4 +19,5 @@ def load_jobs_from_db():
         All_result = result.fetchall()
         colunm_result = result.keys()
         dict_result =[dict(zip(colunm_result,row))for row in All_result]
+        
         return dict_result   
