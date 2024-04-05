@@ -1,1 +1,0 @@
-sql_pass = "mysql+pymysql://root:Vondabaic2020@localhost/Val_Data"
