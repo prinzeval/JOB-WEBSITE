@@ -1,6 +1,7 @@
 from sqlalchemy import create_engine, text
+import security
 
-engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/Val_Data")
+engine = create_engine(security.sql_pass)
 
 with engine.connect() as conn:
     dict_list = []
