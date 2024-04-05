@@ -1,17 +1,29 @@
 <div class="border_body">
- <section>
+  <section>
     <h4>{{job['title']}}</h4>
 
-  <div class='location'>
-    <b>Location:</b>{{job['location']}}
-  </div>
-  {% if 'salary' in job %}
-  <div class='salary'>
+    <div class='location'>
+      <b>Location:</b>{{job['location']}}
+    </div>
+    {% if 'salary' in job %}
+    <div class='salary'>
       <b>Salary:</b>{{job['salary']}}
-  </div>
+    </div>
     {% endif %}
- </section> 
- <div class="left">
-  <button type = "button" class="btn btn-outline-primary"><a href="mailto:vallen@gmail.com?subject=Application for {{job['title']}}" type="button" class="btn btn-outline-primary float-right align-middle">Apply</a>
- </div>
-</div>   
+    {% if 'requirements' in job %}
+    <div class='requirements'>
+      <b> Requirements:</b>{{job['requirements']}}
+    </div>
+    {% endif %}
+    {% if 'responsibilities' in job %}
+    <div class='responsibilities'>
+      <b> responsibilities:</b>{{job['responsibilities']}}
+    </div>
+    {% endif %}
+  </section>
+  <div class="left">
+    <button type="button" class="btn btn-outline-primary"><a
+        href="mailto:vallen@gmail.com?subject=Application for {{job['title']}}" type="button"
+        class="btn btn-outline-primary float-right align-middle">Apply</a>
+  </div>
+</div>
