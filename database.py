@@ -1,8 +1,13 @@
 from sqlalchemy import create_engine, text
 
+username = "root"
+password = "Vondabaic2020"
+hostname = "localhost"
+port = "3306"
+database = "val_data"
 
-engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/Val_Data")
-
+# Create the SQLAlchemy engine
+engine = create_engine(f"mysql+pymysql://{username}:{password}@{hostname}:{port}/{database}")
 with engine.connect() as conn:
     dict_list = []
     result = conn.execute(text("SELECT * FROM jobs"))  
