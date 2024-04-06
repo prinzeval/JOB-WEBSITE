@@ -1,13 +1,7 @@
 from sqlalchemy import create_engine, text
 
-username = "root"
-password = "Vondabaic2020"
-hostname = "127.0.0.1"
-port = "3306"
-database = "val_data"
+engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/Val_Data")
 
-# Create the SQLAlchemy engine
-engine = create_engine(f"mysql+pymysql://{username}:{password}@{hostname}:{port}/{database}")
 with engine.connect() as conn:
     dict_list = []
     result = conn.execute(text("SELECT * FROM jobs"))  
@@ -25,5 +19,4 @@ def load_jobs_from_db():
         All_result = result.fetchall()
         colunm_result = result.keys()
         dict_result =[dict(zip(colunm_result,row))for row in All_result]
-        
         return dict_result   
