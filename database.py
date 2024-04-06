@@ -2,7 +2,7 @@ from sqlalchemy import create_engine, text
 
 username = "root"
 password = "Vondabaic2020"
-hostname = "localhost"
+hostname = "127.0.0.1"
 port = "3306"
 database = "val_data"
 
