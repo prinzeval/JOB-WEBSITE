@@ -4,7 +4,7 @@ engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/Val_Data")
 
 def load_jobs_from_db():
     with engine.connect() as conn:
-        result = conn.execute(text("SELECT * FROM jobs"))
+        result = conn.execute(text("SELECT * FROM job_postings"))
          
         All_result = result.fetchall()
         colunm_result = result.keys()
@@ -15,7 +15,7 @@ def load_jobs_from_db():
 def load_job_from_db(id):
     with engine.connect() as conn:
         result = conn.execute(
-            text("SELECT * FROM jobs WHERE id = :val").bindparams(val=id)
+            text("SELECT * FROM job_postings WHERE id = :val").bindparams(val=id)
         )
         rows = result.fetchall()
         if len(rows) == 0:

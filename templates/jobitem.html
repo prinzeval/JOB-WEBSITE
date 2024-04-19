@@ -1,6 +1,6 @@
 <div class="border_body">
   <section>
-    <h4>{{job['title']}}</h4>
+    <h4>{{job['position']}}</h4>
 
     <div class='location'>
       <b>Location:</b>{{job['location']}}
@@ -10,20 +10,25 @@
       <b>Salary:</b>{{job['salary']}}
     </div>
     {% endif %}
-    {% if 'requirements' in job %}
+    {% if 'company_name' in job %}
     <div class='requirements'>
-      <b> Requirements:</b>{{job['requirements']}}
+      <b> Company name:</b>{{job['company_name']}}
     </div>
     {% endif %}
-    {% if 'responsibilities' in job %}
+    {% if 'benefits' in job %}
     <div class='responsibilities'>
-      <b> responsibilities:</b>{{job['responsibilities']}}
+      <b> BENEFITS:</b>{{job['benefits']}}
+    </div>
+    {% endif %}
+    {% if 'description' in job %}
+    <div class='description'>
+      <b> DESCRIPTION:</b>{{job['description']}}
     </div>
     {% endif %}
   </section>
   <div class="left">
     <button type="button" class="btn btn-outline-primary"><a
-        href="mailto:vallen@gmail.com?subject=Application for {{job['title']}}" type="button"
+        href="/job/{{job['id']}}" type="button"
         class="btn btn-outline-primary float-right align-middle">Apply</a>
   </div>
 </div>

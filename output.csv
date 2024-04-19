@@ -1,0 +1,957 @@
+POSITION,COMPANY NAME,LOCATION,SALARY,JOB LINK,BENEFITS,DESCRIPTION,EMPLOYMENT TYPE
+Senior Data Engineer,Disney Entertainment & ESPN Technology,"New York, NY","$136,038 - $182,490 a year",https://www.indeed.com/applystart?jk=afece6001fb4eb54&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg5vGL9KlDSJjhsV12Bbxx1vYsO0CyuPICnSwXLcy0obqS99oMqeZZD8AP_I0yzlvwnmVf8Z2yxcUbxH53ZEkWiFnCTqugwhkdJKeelPhi6nUAKr_6zUBRfi8klDWyK8_fxowCBFuwPYOmI11lQ39vkCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=24177a70d9c4cfd9&assa=1269,['Health insurance'],"On any given day at Disney Entertainment & ESPN Technology, we’re reimagining ways to create magical viewing experiences for the world’s most beloved stories while also transforming Disney’s media business for the future. Whether that’s evolving our streaming and digital products in new and immersive ways, powering worldwide advertising and distribution to maximize flexibility and efficiency, or delivering Disney’s unmatched entertainment and sports content, every day is a moment to make a difference to partners and to hundreds of millions of people around the world.
+
+ The Product & Data Engineering team is responsible for end to end development for Disney’s world-class consumer-facing products, including streaming platforms Disney+, Hulu, and ESPN+, and digital products & experiences across ESPN, Marvel, Disney Studios, NatGeo, and ABC News. The team drives innovation at scale for millions of consumers around the world across Apple, Android, Smart TVs, game consoles, and the web, with our platforms powering core experiences like personalization, search, messaging and data.
+
+ Job Summary
+ We are looking for a Senior Data Engineer to help us grow the data platform. You will be embedded on the Orchestration team that runs workflow scheduling applications and data ingestion infrastructure that helps power the analytics, operations, and data science behind our flagship streaming applications - Disney+, Hulu, ESPN+, and Star+.
+
+ You'll get to understand the challenges of facilitating a high-quality, flawless media streaming experience across mobile, connected devices, and web, all while using the latest technologies available from AWS and beyond. If you're interested in working in a highly collaborative team environment like this, please get in touch - we'd love to hear from you!
+
+ Responsibilities
+
+ Be a key player in a cross-functional team of engineers who build software for a large-scale data processing ecosystem, supporting real-time and batch data pipelines for analytics, data science, and operations.
+ Build tools and services to support data discovery, lineage, resiliency, and privacy compliance across the data platform
+ Design and develop CI/CD processes for infrastructure components that ensure high availability and agility
+ Maintain software engineering and architecture best practices and standards within the team and wider organization, along with a culture of quality, innovation, and experimentation
+ Evangelize the platform, best-practices, data driven decisions; identify new use cases and features and drive adoption
+
+
+ Basic Qualifications 
+
+Bachelor's degree in Computer Science, Information Systems, Software, Electrical, or Electronics Engineer, or comparable field of study, and/or equivalent work experrience
+ Minimum of 5 years of relevant professional experience
+ Experience with Python and Airflow
+ Experience deploying and running cloud-based data solutions (preferably AWS) and infrastructure-as-code frameworks like Terraform
+ Knowledge of Data Engineering practices and tools, such as Spark, Snowflake, ETL concepts, etc.
+ Ability to dive deep into any technical component as well as understand the overall systems architecture.
+ You care deeply about craftsmanship in your software, and can work backwards from the customer experience.
+ You have excellent written and verbal communication skills.
+
+
+ Preferred Qualifications 
+
+Experience with Scala and application development
+
+
+ #DISNEYTECH
+
+ The hiring range for this position in Santa Monica, CA and Bristol, CT is $136,038 to $182,490 per year, in Seattle, WA and New York, NY is $142,516 to $191,180 per year and in San Francisco, CA is $148,994 to $199,870 per year. The base pay actually offered will take into account internal equity and also may vary depending on the candidate’s geographic region, job-related knowledge, skills, and experience among other factors. A bonus and/or long-term incentive units may be provided as part of the compensation package, in addition to the full range of medical, financial, and/or other benefits, dependent on the level and position offered.",NULL
+Data Engineer III,Match Group,"New York, NY","$143,000 - $172,000 a year",https://www.indeed.com/applystart?jk=9ac908fea878d8f1&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiBTtgl-LXml9xXVXAdpBQGppaIuMumrCKcbY8wN-iLHBJrI7Ok7oIM8eK3e6qXs-lhFLcJTa-odqQEnvrQYzEte8tGJTgN7vqG031Dwbak0whVa35FpR26YC0HHzG120yp6yPqSZll9-B8rr2NbtpNCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=1646c11e6c00ad8d&assa=5026,"['401(k)', '401(k) matching', 'Paid parental leave', 'Parental leave']","Hinge is the dating app designed to be deleted
+
+
+
+ In today's digital world, finding genuine relationships is tougher than ever. At Hinge, we’re on a mission to inspire intimate connection to create a less lonely world. We’re obsessed with understanding our users’ behaviors to help them find love, and our success is defined by one simple metric– setting up great dates. With tens of millions of users across the globe, we’ve become the most trusted way to find a relationship, for all.
+ 
+
+
+ About the Role: 
+
+
+
+
+  As a Data Engineer at Hinge, you will create essential data processes and contribute to components of a modern data pipeline that will be the foundation of Hinge’s decision-making ability. The systems you help create, the problems you help solve, and the support of our analytical minds, will be pivotal to the success of Hinge.
+ 
+
+
+ You will be making a real impact on the data platform team and will be key to the success of Hinge. Your work will enable the organization to make data-driven decisions and drive improvements, which will affect the love lives of tons of people.
+ 
+
+
+ Data Engineers will be improving core functionality and implementing critical pipelines that will not only aid the data engineering team, but the rest of the organization. As a Data Engineer at Hinge, you will be working on an actual big data architecture, while concentrating on real-world problems.
+ 
+Responsibilities:
+
+ Work with our data teams to ensure data is flowing accurately through data creation to our presentation layers.
+ Improve our Data Engineering stack through containerization, data modeling, developing our ETL pipelines, and more.
+ Use your expertise in data modeling to design, build and maintain our analytics data warehouse that provides clean, accurate, and robust data sets to be leveraged for reporting, analytics, and machine learning initiatives.
+ Work with stakeholders and translate their needs and expectations into action items and deliverables.
+ Continue to learn more about the Data Engineering discipline, utilize that knowledge in your deliverables, and identify opportunities to enhance our pipelines.
+ Contribute meaningful insights and feedback to our team processes.
+ Participate in our on-call rotation.
+
+ What We're Looking For:
+
+ Proficient in Python, SQL, DevOps, and databases.
+ 3+ years of professional/industry experience.
+ Experience delivering data products from conception to delivery and with the infrastructure that supports their underlying processes.
+ Strong communication skills (written/verbal).Experience modeling data sets for different types of sources and business processes.
+ Passionate about designing elegant data infrastructure, tooling, and pipelines.
+ Familiar with our stack: Kubernetes, Docker, Terraform, Kafka, Airflow, dbt, Looker, AWS technologies (S3, Redshift), GCP technologies (Dataflow, BigQuery), and CI/CD technologies (CircleCI).
+
+
+   Factors such as scope and responsibilities of the position, candidate's work experience, education/training, job-related skills, internal peer equity, as well as market and business considerations may influence base pay offered. This salary range is reflective of a position based in New York City. This salary will be subject to a geographic adjustment (according to a specific city and state), if an authorization is granted to work outside of the location listed in this posting.
+ 
+
+ As a member of our team, you’ll enjoy:
+
+
+
+ 401(k) Matching: We match 100% of the first 10% of pre-tax 401(k) contributions you make, up to a maximum of $10,000 per year.
+ 
+
+
+ Professional Growth: Get a $3,000 annual Learning & Development stipend once you’ve been with us for three months. You also get free access to Udemy, an online learning and teaching marketplace with over 6000 courses, starting your first day.
+ 
+
+
+ Parental Leave & Planning: When you become a new parent, you’re eligible for 100% paid parental leave (20 paid weeks for both birth and non-birth parents.)
+ 
+
+
+ Fertility Support: You’ll get easy access to fertility care through Carrot, from basic treatments to fertility preservation. We also provide $10,000 toward fertility preservation. You and your spouse/domestic partner are both eligible.
+ 
+
+
+ Date Stipend: All Hinge employees receive a $100 monthly stipend for epic dates– Romantic or otherwise. Hinge Premium is also free for employees and their loved ones.
+ 
+
+
+ ERGs: We have eight Employee Resource Groups (ERGs)—Asian, Unapologetic, Disability, LGBTQIA+, Vibras, Women/Nonbinary, Parents, and Remote—that hold regular meetings, host events, and provide dedicated support to the organization & its community.
+ 
+
+
+ At Hinge, our core values are…
+
+
+
+ Authenticity: We share, never hide, our words, actions and intentions.
+ 
+
+
+ Courage: We embrace lofty goals and tough challenges.
+ 
+
+
+ Empathy: We deeply consider the perspective of others.
+ 
+
+
+ Diversity inspires innovation
+
+
+
+ Hinge is an equal-opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We believe success is created by a diverse workforce of individuals with different ideas, strengths, interests, and cultural backgrounds.
+ 
+
+
+ If you require reasonable accommodation to complete a job application, pre-employment testing, or a job interview or to otherwise participate in the hiring process, please contact employeebenefits@matchgroup.com.",NULL
+Data Engineer,Paul Hastings,"New York, NY 10017","Up to $162,500 a year",https://www.indeed.com/applystart?jk=9f936e2bb1027876&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiiHd31RSTTuiiS_8ab7rEcDE1xEklHyNTrCuUWLcptpawqUyjf0sFtaJcjAuhWAmTtJH4JmtgPPBAqwYFE24sHIj-n8lR-j97MVeBp78FvJBs7-DsoqZlwQ2-PkV8fdPzXh6xm_aV0BVEZFWVsalgrCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=679036cb53c90f50&assa=8779,"['401(k)', 'AD&D insurance', 'Commuter assistance', 'Dental insurance', 'Disability insurance', 'Employee assistance program', 'Employee discount']","Paul Hastings is a leading international law firm that provides innovative legal solutions to many of the world's top financial institutions and Fortune Global 500 companies. With a strong presence throughout Asia, Europe, Latin America, and the U.S., we have the global reach and extensive capabilities to provide personalized service wherever our clients’ needs take us. As one of the world’s leading law firms, we seek dynamic individuals who share our commitment to service, innovation, and professional growth.
+We have an opening for a Data Engineer.
+The Data Engineer is responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection. The Data Engineer is an experienced data pipeline builder who enjoys optimizing data systems and building them from the ground up. This individual will support our software developers, architects, and data owners across various data initiatives and ensures an optimal and consistent data delivery architecture. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products.
+In this capacity, the Data Engineer will:
+
+Design, construct, test and maintain data architectures and data pipelines;
+ Ensure our data architecture supports the requirements of the business;
+ Develop custom data models and algorithms to apply to data sets;
+ Assess the effectiveness and accuracy of new data sources and data gathering techniques. Discover opportunities for data acquisition;
+ Develop data set processes for data modeling, mining and production;
+ Employ a variety of languages and tools to marry systems together;
+ Recommend ways to improve data reliability, efficiency and quality;
+ Leverage large volumes of data from internal and external sources to answer business demands;
+ Introduce automation through effective metadata management and using innovative and modern tools and techniques. Partially or completely automate the most common and repeatable data preparation and integration tasks;
+ Propose appropriate data ingestion, preparation, integration and operationalization techniques in addressing data requirements;
+ Lead the development of data governance policies and best practices for consumers and users of data we provision;
+ Coordinate with different functional teams to implement models and monitor outcomes; and
+ Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Proficiencies: 
+
+Demonstrates knowledge of the following processes, tools or applications;
+ Experienced in designing, building and managing data pipelines for data structures;
+ Expertise with advanced analytics tools for Object-oriented/object function scripting. Includes languages such as C#, Python and others
+ Expert in SQL, PL/SQL, SSIS and SSAS;
+ Knowledge and/or certifications on upcoming NoSQL/Hadoop-oriented databases like MongoDB, Cassandra, and others for non-relational databases;
+ Experienced working with large, heterogeneous data sets in building and optimizing data pipelines, pipeline architectures and integrated datasets using traditional data integration technologies;
+ Experienced working with popular data discovery, analytics and BI software tools such as Tableau, Power BI and others;
+ Experienced working with data governance/data quality and data security teams;
+ Experienced employing Microsoft MDM (Master Data Management) and MDS;
+ Ability to troubleshoot complicated issues across multiple systems and driving solutions;
+ Effectively convey technical concepts to non-technical individuals;
+ Demonstrate a high level of Data Security Awareness; and
+ Experience with financial and legal industry data is a plus.
+
+Qualifications: 
+
+A Bachelor's or Master's degree in computer science, statistics, applied mathematics, data management, information systems, information science or a related quantitative field or equivalent work experience;
+ At least five years’ experience in data management disciplines including data integration, modeling, optimization and data quality, and/or other areas directly relevant to data engineering responsibilities and tasks;
+ At least three years’ experience working in cross-functional teams and collaborating with business stakeholders in support of a departmental and/or multi-departmental data management and analytics initiative;
+ Excellent communication and collaboration skills;
+ Excellent problem solving and analytical skills;
+ Must be highly effective within a collaborative environment; and
+ Must be able to independently resolve issues and efficiently self-direct work activities based on the ability to capture, organize, and analyze information.
+
+Employees will be provided with an excellent career opportunity in a collaborative environment, in addition to a generous total compensation package with the opportunity to earn bonuses based on individual contribution and firm profitability.
+The salary wage range that we expect to pay for this position is a minimum of $112,300 and a maximum of $162,500 annually. The actual pay wage may vary based on experience or other relevant factors.
+Eligible employees can participate in the Firm’s comprehensive benefits program, which include the following:
+
+Medical, Dental, Vision, Life/AD&D, Long Term Care, and Short and Long Term Disability
+ Flexible Spending Account and Health Savings Account
+ Healthcare Concierge and Advocacy
+ Voluntary 401k Plan and Profit Sharing
+ 10 Paid Holidays per year and a generous PTO program
+ Family Support including Pediatric Mental Health and Parental Support, Paid Parental Leave, Fertility Benefits, and Breast Milk Shipping
+ Back-up Child Care, Elder Care, and Tutoring
+ Wellness Programs (Employee Assistance Program, Mental Health, and Well-Being Events)
+ Retirement Plan Consulting
+ Anniversary Bonus Program
+ Professional Development Programs
+ Transportation Allowance and Commuter Benefits
+ International Travel Insurance
+ Auto/Home/Legal Insurance
+ Pet Insurance
+ Employee discounts
+ And more!
+
+The Firm has a range of diversity initiatives including our Paul Hastings Affinity Networks (PHANs), Women’s Initiative, and PH Balanced. These initiatives provide a firmwide forum to share experiences, as well as an opportunity to participate in a supportive network with common interests to help make life at the firm more inclusive. Learn more about our Global Diversity, Inclusion and Wellness Initiatives here.
+Paul Hastings LLP is an equal employment and affirmative action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.",NULL
+Data Engineer,Beyond Identity,"New York, NY","$155,000 - $180,000 a year",https://www.indeed.com/applystart?jk=b30e975fdf500a38&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgxbaSvCh57GCtj48L9OYKU4h7Hudj8VRU1Hjtha-Lk_g42PUbYI0_iee_6hXoxbS_b3lrqW836C9Lv8mDd-dko2ispspacnK9KZ1A9pCb6RlVT-u1Z6QVDCXwpEbzpXYCeS3BG0ydvUWBPDgyLFiTgCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=3ca800d62c8b0f1f&assa=2950,"['401(k)', 'Dental insurance', 'Health insurance', 'Paid parental leave', 'Parental leave', 'Unlimited paid time off', 'Vision insurance']","The Opportunity
+ As a Data Engineer at Beyond Identity, you are responsible for solving complex problems at the intersection of identity management and big data. The data team has both external and internal customers: we believe that all data collected on behalf of our customers should be easily available to them. We are a fast-paced organization going through rapid growth and solving technical challenges at an exponential scale. We have a strong company culture of committing to goals and delivering on timelines. We are looking for a Data Engineer with the highest levels of technical talent, soft skills and desire to deeply understand our product.
+ This position is hybrid and requires a regular presence at our New York City office a few days each week.
+ What You Can Expect to Do:
+
+Building data platforms and data products that enhance our security products' value propositions to our customers.
+Work closely with an experienced, highly motivated team of data engineers and scientists. Communicate progress, blockers, and issues with your team regularly.
+Build and support contemporary cloud-native application architectures using modern concepts and the cloud technologies used therein.
+Code actively in Rust, Go and SQL to create scalable and performant data systems.
+Participate in systems design and align business needs with the appropriate technology.
+Develop data models that are easy to understand and consume by software developers and business users.
+
+What we Hope You'll Bring:
+
+3+ years of software development experience focused on building and supporting data platforms and products.
+Experience with any modern programming language like Python, Go, or Rust.
+Hands-on experience with SQL, data models, and bonus if you know modern data platform elements like Snowflake and DBT.
+Experience developing and maintaining software in an end-user-facing production environment.
+Experience in data modeling and understanding various modeling techniques such as 3NF, Dimensional, and denormalized.
+Good understanding of modern tooling like Terraform, Docker, Gitlab CI, Kubernetes, and Helm.
+Working in a startup environment is a plus.
+
+Perks at Beyond Identity:
+
+Unlimited PTO plus 13 Paid Company Holidays
+Generous Medical, Dental, and Vision Plans
+HRA Account - An additional $3500 (for employee only) or $6000 (for employee and dependent(s) per year to help offset some out of pocket expenses
+Paid Parental Leave
+401K Plan
+Fun Company Events
+Competitive Salary + Equity Compensation Packages
+Weekly company meetings led by our CEO promoting transparency and communicating company news
+
+Beyond Identity, Inc. is committed to fair and equitable compensation practices. For Applicants in New York, NY, the salary range is $155K - $180K per year + equity+benefits. A candidate's salary is determined by various factors including, but not limited to, relevant work experience, skills, and certifications. The salary range may differ in other states.
+
+ Beyond Identity Inc. is an equal opportunity employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills, and experiences within our workforce.
+About Company
+ Beyond Identity is revolutionizing digital access for organizations looking to improve protection against cyber attacks and deliver the highest levels of security for their workforces, customers, and developers. Its suite of passwordless, phishing-resistant, and Zero Trust Authentication solutions improves security and user experience. The platform delivers continuous risk-based authentication incorporating security telemetry from the zero trust ecosystem to ensure only valid users and secure devices gain or maintain access to critical resources. Organizations like Snowflake, Cornell University, and World Wide Technology rely on Beyond Identity's highly available cloud-native platform to thwart attacks and advance their zero trust strategies. To learn more about Beyond Identity's FIDO2 certified multi-factor authentication (MFA) solutions, visit beyondidentity.com and stay connected with us on LinkedIn, X, and YouTube.",NULL
+"Data Engineer, Trust & Safety",Meta,"New York, NY","$134,000 - $204,000 a year",https://www.indeed.com/applystart?jk=29ba329e0f9f76db&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg1pZAu9wykiObFLEZEpQi_mVpp5x6N4hJT4Ka08zQ0T5vTNeam8ueMLHszwZ42TRxf4H3TLgOpiYRSG24WMt39XcG0ycz79SfACtUvh89N5lnQXJH6qVWiAIZfHCCHV-vI7lWjn-pXK01B9nkfIw1ACITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=54e0641b330f7223&assa=6034,No benefits found.,"Every month, billions of people leverage Meta products to connect with friends and loved ones from across the world. As a data engineer in the team, you will play a critical role in ensuring the safety and well-being of our users by using data to identify and mitigate risks.You will have the opportunity to work on complex and meaningful problems that have a direct impact on the lives of people around the world. You will have the chance to work with cutting-edge technology and tools to develop innovative solutions to some of the most pressing challenges facing our platform. You will have the satisfaction of knowing that your work is making a real difference in the lives of people and helping to create a safer and more trustworthy online community.
+ 
+
+
+Data Engineer, Trust & Safety Responsibilities:  
+
+Conceptualize and own the data architecture for multiple large-scale projects, while evaluating design and operational cost-benefit tradeoffs within systems
+ Create and contribute to frameworks that improve the efficacy of logging data, while working with data infrastructure to triage issues and resolve
+ Collaborate with engineers, product managers, and data scientists to understand data needs, representing key data insights in a meaningful way
+ Define and manage SLA for all data sets in allocated areas of ownership
+ Determine and implement the security model based on privacy requirements, confirm safeguards are followed, address data quality issues, and evolve governance processes within allocated areas of ownership
+ Design, build, and launch collections of sophisticated data models and visualizations that support multiple use cases across different products or domains
+ Solve our most challenging data integration problems, utilizing optimal ETL patterns, frameworks, query techniques, sourcing from structured and unstructured data sources
+ Assist in owning existing processes running in production, optimizing complex code through advanced algorithmic concepts
+ Optimize pipelines, dashboards, frameworks, and systems to facilitate easier development of data artifacts
+ Influence product and cross-functional teams to identify data opportunities to drive impact
+ Mentor team members by giving/receiving actionable feedback
+
+
+
+
+Minimum Qualifications: 
+
+ Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+ 4+ years of work experience in data engineering (a minimum of 2+ years with a Ph.D).
+ Experience with SQL, ETL, data modeling, and at least one programming language (e.g., Python, C++, C#, Scala, etc.)
+
+
+
+
+Preferred Qualifications: 
+
+ Master's or Ph.D. degree in a STEM field.
+ Experience with one or more of the following: data processing automation, data quality, data warehousing, data governance, business intelligence, data visualization, data privacy.
+ Experience working with terabyte to petabyte scale data.
+
+
+
+
+About Meta:  Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+ 
+
+
+
+  Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment. 
+  
+ Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",NULL
+Data Engineer,NYPD Civilian Jobs,"Manhattan, NY","$71,920 a year",https://www.indeed.com/applystart?jk=9562c51b70acd54d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhWbYcwr35_LsDIc-tE1Jf5HT0-FOtcgamblUVY1soiXI2r0_mZzLiCfmczf0rjg_p7aWx7FQdtv_KT8BMxtIwsnoHWJLRSrZsdSXyZotmAqODLoOZNIOHCmaBra6RwFYYjtusyA-zh8geIQ25gfHvVCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=ef535287890f4066&assa=9913,['Loan forgiveness'],"DISTRICT ATTORNEY-MANHATTAN 
+
+
+
+
+
+
+Full-Time 
+
+
+
+
+
+
+Location 
+
+
+MANHATTAN
+
+
+
+
+
+
+No Exam Required 
+
+
+
+
+
+
+
+Department
+
+
+Strategic Planning And Policy
+
+
+
+
+
+
+
+
+Salary Range:
+ 
+
+$71,920.00 – $71,920.00
+ 
+
+
+
+
+
+
+
+
+
+Job Description
+
+
+
+
+         The New York County District Attorney’s Office Policy Department has an immediate opening for a Data Engineer within the Data Analytics and Research Unit. The Manhattan District Attorney’s (DA’s) Office, led by DA Alvin Bragg, pursues a mission of “Moving Justice Forward.” This embodies the Office’s goal to serve and protect the People of New York through the fair administration of justice, without fear or favor. The Data Analytics and Research Unit is responsible for evaluating and advising on new Office policies and initiatives, measuring Office performance on strategic goals, assisting executives in improving Office operations, working with external partners to conduct leading research in criminal justice and promoting data transparency throughout the Office and to the public. In this position, the Data Engineer will be responsible for maintaining and improving the data infrastructure used for reporting by the Office as well as guaranteeing the data quality of all reporting. The DA’s office seeks a candidate with exceptional technical expertise and interpersonal skills, as the ideal candidate will have to effectively translate the practice and understanding of non-technical end-users into technical work product.
+         
+
+
+ Responsibilities include but are not limited to:
+         
+
+
+Work with other members of the Data Analytics and Research Unit, IT, and practitioners to define reporting requirements, identify gaps in current data, and map new reporting data sets in pre-existing and new work areas. 
+Map new data sets and sources into predefined data model or develop new data models as needed, while maintaining data integrity.
+Work with the Unit’s Data Engineer to build and validate pipelines to add administrative or external data into a reporting data model.
+Work with the Unit’s Technical Product Specialist to provide up-to-date documentation, descriptions, and flow diagrams, ensuring any changes to the business rules on reporting data are documented and communicated effectively.
+Develop, implement, and document data management policies, procedures, and standards to ensure data quality, security, and compliance for reporting data in compliance with office-wide data management standards.
+Clean, recode, and manipulate enterprise data in compliance with data management standards and required data quality.
+Manage quality assurance for enterprise data within the Data Analytics and Research Unit.
+Collaborate with other members of the Data Analytics and Research Unit and IT on data infrastructure, reporting tools, and policies as required.
+Develop a sound understanding of IT operations, systems, and applications as well as function as the subject matter expert on policies and procedures of the Office. 
+Keep abreast of new tools, trends, and best practices in data management and governance especially as it relates to the responsible protection and use of criminal justice data.
+Educate staff throughout the Office on the power of data-driven work and on data management techniques.
+Perform other related duties and projects as assigned.
+
+ In addition to the Minimum Qualification Requirements, candidates must possess the following:
+         
+
+
+A bachelor’s degree from an accredited college or university in Computer Science a related field or equivalent experience required.
+
+ Preferred Requirements/Skills:
+         
+
+
+Certified Data Management Professional (CDMP) certification.
+Experience working in criminal justice or public policy organizations in a data management role.
+Experience working with complex datasets in a professional or academic setting.
+Proficiency with Microsoft SQL or other RDBMS experience.
+Three or more years of experience in data management or data governance.
+Proficiency in database management systems, data modeling and data integration.
+Experience with data management tools such as data cataloging tools, ETL, and data governance solutions.
+Knowledge of data-related regulations.
+Familiarity with analysis computing languages such as R or Python and visualization tools such as PowerBI.
+Interest in public policy and a desire to tackle complex issues, including public safety, justice, and equity.
+Strong project management skills in a team-oriented environment.
+Experience working in teams and collaborating on projects.
+Ability to multi-task and meet deadlines.
+Must be able to perform under pressure in a fast-paced environment.
+Must be extremely detail-oriented, self-motivated, highly organized, resourceful, and reliable.
+Proficiency in Microsoft Office.
+
+ How to : 
+         
+
+
+with a Cover Letter and Resume.
+
+ Additional Information:
+         
+
+
+Current office employees: To be eligible for a transfer or promotion, staff must have already served at least 1 year in their current position and be in good standing. In addition, must meet the minimum qualifications of the position.
+Looking for candidates that could commit to two (2) years to the hiring unit.
+Authorization to work in the United States is required for this position.
+
+
+ Minimum Qualifications
+ 1. A baccalaureate degree from an accredited college and two years of experience in community work or community centered activities in an area related to the duties described above; or  2. High school graduation or equivalent and six years of experience in community work or community centered activities in an area related to the duties as described above; or  3. Education and/or experience which is equivalent to ""1"" or ""2"" above. However, all candidates must have at least one year of experience as described in ""1"" above.
+ Public Service Loan Forgiveness
+ As a prospective employee of the City of New York, you may be eligible for federal loan forgiveness programs and state repayment assistance programs. For more information, please visit the U.S. Department of Education’s website at https://studentaid.gov/pslf/.
+        
+ Residency Requirement
+ City Residency is not required for this position.
+        
+ Additional Information
+
+ The City of New York is an inclusive equal opportunity employer committed to recruiting and retaining a diverse workforce and providing a work environment that is free from discrimination and harassment based upon any legally protected status or protected characteristic, including but not limited to an individual's sex, race, color, ethnicity, national origin, age, religion, disability, sexual orientation, veteran status, gender identity, or pregnancy.
+
+
+
+
+
+
+
+
+
+
+
+
+Job ID 
+
+
+621896
+
+
+
+
+
+
+
+Title code
+
+
+56058
+
+
+
+
+
+
+
+
+Civil service title
+
+
+COMMUNITY COORDINATOR
+
+
+
+
+
+
+
+
+Title classification
+
+
+Non-Competitive-5
+
+
+
+
+
+
+
+
+Business title
+
+
+Data Engineer
+
+
+
+
+
+
+
+
+Posted until
+
+
+04/07/2024
+
+
+
+
+
+
+
+
+
+Experience Level: 
+Experienced (Non-Manager) 
+
+
+
+
+
+
+
+Number of positions
+
+
+1
+
+
+
+
+
+
+
+
+Work location
+
+
+1 Hogan Pl./100 Centre St., N.
+
+
+
+
+
+
+
+
+
+Category: 
+Engineering, Architecture, & Planning",NULL
+Senior Data Engineer,CVS Health,"New York, NY","$97,335 - $201,900 a year",https://www.indeed.com/applystart?jk=6335f8b828ec397c&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhxSuPiCshyJipulea4z9x2fC2SN9NrCe8d__2dhTK8El0mFQVGxXZjOPVvWRDKwh_nmG7-Ygaz1vcewXnz6e4iZLgDyCQ_gIpXdRbFoWf6_zIUI0YTNxQSCetDOgPXZ6oAXRt5s1cGwrntGZp4eyZvCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=6506c048c31d3043&assa=3177,"['401(k)', 'Dental insurance', 'Disability insurance', 'Employee discount', 'Employee stock purchase plan', 'Health insurance', 'Life insurance']","Bring your heart to CVS Health. Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.  Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+ Position Summary
+
+ Supports the creation and operation of Big Data AI/machine learning solutions, using complex healthcare data to produce actionable insights
+ Leads and participates in the design, build and management of large-scale data structures and pipelines and efficient Extract/Load/Transform (ETL) workflows.
+ Uses strong data analysis skills to profile and validate source datasets to recommend solutions.
+ Collaborates with data science team to define and build datasets for training of analytic data models.
+ Leverages data management experience to design large scale data structures that support efficient consumption of analytic results.
+ Uses strong programming skills in Python, Java or any of the major languages to develop efficient ETL to collect and standardize data to generate insights and addresses reporting needs.
+ Develops software to deliver both batch and real time analytics
+
+ Required Qualifications
+
+ 5+ years of relevant work experience in Data Engineering/ETL Development
+ 5+ years of SQL experience with large datasets
+ 2+ years’ experience with Spark, Python, or Java to build robust data pipelines
+ Experience leveraging Cloud Technologies (GCP Preferred, AWS, Azure) for ETL and data analysis
+ 5 or more years of progressively complex related experience.
+
+ Preferred Qualifications
+
+ Strong SQL and data analysis experience; data exploration, profiling, and validation.
+ Strong collaboration and communication skills within and across teams.
+ Uses knowledge in Hadoop architecture, HDFS commands and experience designing & optimizing queries to build data pipelines.
+ Experience working with Healthcare or Health insurance data Understanding of data science methods and statistics 
+ 
+ Education
+ Bachelor's degree or equivalent work experience in Computer Science, Engineering, Machine Learning, or related discipline.
+ Master’s degree or PhD preferred.
+
+ Pay Range
+ The typical pay range for this role is:
+ $97,335.00 - $201,900.00
+ 
+ This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above.  In addition to your compensation, enjoy the rewards of an organization that puts our heart into caring for our colleagues and our communities. The Company offers a full range of medical, dental, and vision benefits. Eligible employees may enroll in the Company’s 401(k) retirement savings plan, and an Employee Stock Purchase Plan is also available for eligible employees. The Company provides a fully-paid term life insurance plan to eligible employees, and short-term and long term disability benefits. CVS Health also offers numerous well-being programs, education assistance, free development courses, a CVS store discount, and discount programs with participating partners. As for time off, Company employees enjoy Paid Time Off (“PTO”) or vacation pay, as well as paid holidays throughout the calendar year. Number of paid holidays, sick time and other time off are provided consistent with relevant state law and Company policies.  For more detailed information on available benefits, please visit jobs.CVSHealth.com/benefits
+
+ CVS Health requires certain colleagues to be fully vaccinated against COVID-19 (including any booster shots if required), where allowable under the law, unless they are approved for a reasonable accommodation based on disability, medical condition, religious belief, or other legally recognized reasons that prevents them from being vaccinated.
+
+ You are required to have received at least one COVID-19 shot prior to your first day of employment and to provide proof of your vaccination status or apply for a reasonable accommodation within the first 10 days of your employment. Please note that in some states and roles, you may be required to provide proof of full vaccination or an approved reasonable accommodation before you can begin to actively work.
+
+ CVS Health is committed to recruiting, hiring, developing, advancing, and retaining individuals with disabilities. As such, we strive to provide equal access to the benefits and privileges of employment, including the provision of a reasonable accommodation to perform essential job functions. CVS Health can provide a request for a reasonable accommodation, including a qualified interpreter, written information in other formats, translation or other services through ColleagueRelations@CVSHealth.com If you have a speech or hearing disability, please call 7-1-1 to utilize Telecommunications Relay Services (TRS). We will make every effort to respond to your request within 48 business hours and do everything we can to work towards a solution.",NULL
+Senior Data Engineer- AWS,Publicis Sapient,"375 Hudson St, New York, NY 10014","$103,000 - $154,000 a year",https://www.indeed.com/applystart?jk=9cc2e51225ada347&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhBN5rUETEgHtyRGBp3yrGowEXlYlq0xNbFud8xM0rJT_z7D3IJ6XQVLnfwQnwG5bKQHIrxGV9Z9Wr1ShSuDtm0UXrsAiJvHAUmjuqzLQi55-YcI0JAESrvO4WfSyUUlHmw6QZu08f990CWLs4SrOkwCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=17623c460fc8d4c8&assa=7273,"['Parental leave', 'Tuition reimbursement']","Publicis Sapient is looking for a Senior Associate Data Engineer to be part of our team of top-notch technologists. You will lead and deliver technical solutions for large-scale digital transformation projects. Working with the latest data technologies in the industry, you will be instrumental in helping our clients evolve for a more digital future.
+ 
+ Your Impact:
+
+ Combine your technical expertise and problem-solving passion to work closely with clients, turning complex ideas into end-to-end solutions that transform our client's business
+ Translate client's requirements to system design and develop a solution that delivers business value
+ Lead, designed, develop, and deliver large-scale data systems, data processing, and data transformation projects
+ Automate data platform operations and manage the post-production system and processes
+ Conduct technical feasibility assessments and provide project estimates for the design and development of the solution
+ Mentor, help and grow junior team members
+ Your Technical Skills & Experience:
+
+ Demonstrable experience in data platforms involving implementation of end-to-end data pipelines
+ Hands-on experience in AWS cloud platform.
+ Implementation experience with column-oriented database technologies (i.e., Big Query, Redshift, Vertica), NoSQL database technologies (i.e., DynamoDB, BigTable, Cosmos DB, etc.) and traditional database systems (i.e., SQL Server, Oracle, MySQL)
+ Experience in implementing data pipelines for both streaming and batch integrations using tools/frameworks like Azure Data Factory, Glue ETL, Lambda, Spark, Spark Streaming, etc.
+ Ability to handle module or track level responsibilities and contributing to tasks hands-on
+ Experience in data modeling, warehouse design and fact/dimension implementations
+ Experience working with code repositories and continuous integration
+ Data modeling, querying, and optimization for relational, NoSQL, timeseries, and graph databases and data warehouses and data lakes
+ Data processing programming using SQL, DBT, Python, and similar tools
+ Logical programming in Python, Spark, PySpark, Java, Javascript, and/or Scala
+ Data ingest, validation, and enrichment pipeline design and implementation
+ Cloud-native data platform design with a focus on streaming and event-driven architectures
+ Test programming using automated testing frameworks, data validation and quality frameworks, and data lineage frameworks
+ Metadata definition and management via data catalogs, service catalogs, and stewardship tools such as OpenMetadata, DataHub, Alation, AWS Glue Catalog, Google Data Catalog, and similar
+ Code review and mentorship
+ Bachelor's degree in Computer Science, Engineering or related field.
+ Set Yourself Apart With:
+
+ Developer certifications for any of the cloud services like AWS, Google Cloud or Azure
+ Understanding of development and project methodologies
+ Willingness to travel
+
+  Additional Information
+
+ Pay Range:$103,000 -$154,000
+
+ The range shown represents a grouping of relevant ranges currently in use at Publicis Sapient. Actual range for this position may differ, depending on location and the specific skillset required for the work itself. 
+ 
+ Benefits of Working Here:
+
+ Flexible vacation policy; time is not limited, allocated, or accrued
+ 16 paid holidays throughout the year
+ Generous parental leave and new parent transition program
+ Tuition reimbursement 
+Corporate gift matching program 
+If you are excited for -
+
+ Opportunities to grow with Publicis Groupe that believes in Power of One. We will help you partner with our clients across the globe in various industries,
+ Diverse team & progressive work environment,
+ A place where learning never stops. We ensure you get trained on multiple platforms and domains which enables you to have cross functional experience within the organization,
+ Empowering your ambitions through our dedicated Total Rewards Program, competitive pay and benefits package.
+ YOU are the one we're looking for. Someone who truly understand what it takes to serve clients beyond expectations: crack one-off client challenges. Develop insights. Spark breakthrough creative ideas.
+ 
+ Company Description
+
+ Publicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers.We help unlock value through a start-up mindset and modern methods, fusing strategy, consulting and customer experience with agile engineering and problem-solving creativity.United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across truly value",NULL
+Data Engineer,Lord Abbett.com,"90 Hudson Street, Jersey City, NJ 07302","$100,000 - $110,000 a year",https://www.indeed.com/applystart?jk=3d92f3277e9b5c05&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg3X3xKS8HAu-kSE0gH5oEeROydWkB5X-u9DFsO8n14rIQTUdpJhHkzYpfCQcFf60UGX-zFlJbS9F0ZiAGDdtSgNtjzhNx67SVvBM0jhmS_Vo-cCVPsW-gq0Fc2BJ6GSckCmQw6MI8nm_rnDYlGIgzDCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=67a33a12919ddea1&assa=959,"['Health insurance', 'Retirement plan']","The Role: 
+  Lord Abbett is looking for a talented and experienced developer to join our development team to support the continued development of our analytics platforms. Besides regular individual contributions, Data Engineers are expected to be deep technical experts in our tech stack and have a breadth of knowledge and experience on technology trends in the industry. Above all else, we are looking for a team member who is motivated to achieve results, have high standards of quality, and possess a flexible entrepreneurial spirit when faced with scope change. Be prepared to join a fast-moving team. We’ll trust you to:: 
+  Key responsibilities:
+
+ Design and develop next generation Client and Corporate applications analytics platforms 
+Work closely with business partners and as analysts to understand the data requirements, analyze & design the necessary data flows and database design
+ Developing systems for downloading data from various internal and external sources
+ Developing robust quality control processing, monitoring and workflow dashboards
+ Integration of risk and quantitative models
+ Simplification and automation of existing manual processes
+ Provide support for overnight batch jobs
+ Works closely with a team of frontend and backend engineers, product managers and analysts
+
+ What makes this role interesting?
+
+ The Client and Corporate Applications analytics technology team is currently making a significant investment in building out analytics & insight-based platforms. This platform is a strategic initiative for the business, and the candidate will be given significant opportunities to make contributions at the ground-level
+ The candidate will have an opportunity to work alongside an established team of developers, data analysts and product owners to create analytics platform providing value to Sales, Finance, Human Capital Management and Client Life cycle business teams.
+ The candidate will work closely with business and product owners with an opportunity to broaden their financial knowledge across asset classes, markets segments and products
+ You'll need to have:: 
+  Qualifications:
+
+ Bachelors or master’s in Computer Science, Engineering, Physics, Math, or related work experience
+ 5+ years of experience programming in SQL queries, stored procedures, query optimization performance tuning (Microsoft SQL Server, PostgreSQL or Oracle)
+ 4+ years of experience in Python
+ 3+ years of hands-on data architecture and data modelling experience
+ 2+ years of Core Java experience
+ 2+ years of experience building highly scalable data solutions using Snowflake, Hadoop, Spark, Databricks
+ 2+ years of experience working in cloud environments (AWS and/or Azure)
+ Create and maintain Conceptual, Logical and Physical data models
+ Experience in architecting, designing, integrating, and understanding the characteristics and specificities of data-intensive systems
+ Identify opportunities to reuse data and reduce redundancy across the enterprise
+ Experience with Git/GitHub
+ Good knowledge with DevOps tools like DevOps – Jira, Confluence and CI/CD pipelines (Jenkins)
+
+ Skills:
+
+ Strong analytical skills
+ Candidate must be willing to take full ownership of projects, covering discovery, analysis, technical design and implementation, testing, and deployment tasks
+ Must demonstrate good communication skills and be comfortable working closely with senior business partners, product owners and in cross-functional teams
+ A strong desire to document and share work done to aid in long term support
+ Candidate must be a self-starter, a dependable partner, and team player
+
+ Special Knowledge (nice to have, but not required):
+
+ Experience working in the finance industry
+ Experience with market data vendors - Bloomberg, Markit, ICE/BAML, FINRA, Intex, KBRA
+ Experience working on distributed system and handling & processing of large-scale data (trades, risk, market data etc.)
+ Why Lord Abbett?: 
+ 
+
+
+
+      Lord Abbett is a leading global independent, privately held investment management company. We are active managers and invest where we believe we have a repeatable edge and can deliver alpha for our clients. Our vision is to be the most respected asset manager in the world, admired for our people, our performance, our relationships, and our organizational agility. This inspires the three pillars of our culture.
+    
+
+ Principles-Led - We empower our leaders to create an environment of trust.
+ Performance-Oriented - We inspire our people to embody our values, excellence, responsibility, transparency & collaboration.
+ Purpose-Driven - Embraces our mission: Securing a sustainable future for our clients, people, and world.
+
+
+      We are honored to have earned recognition as one of the Best Places to Work in Money Management by Pensions & Investments and scored 100% on the Human Rights Campaign’s Corporate Equality Index, a measure of LGBTQ+ workplace equality.
+    
+
+
+ Compensation Information: Annual base salary for this role is $100,000 - $110,000. Salary is estimated for this role. Actual pay may be different.
+    
+
+      Discretionary Bonus: Role may be eligible to receive an annual discretionary bonus. Discretionary bonuses are determined by several factors including, but not limited to, firm, team, and individual performance.
+    
+
+      Benefits: Lord Abbett is committed to offering a competitive total rewards package to all eligible employees. Offerings include competitive total compensation, retirement plans, competitive health and well-being plans. To learn more about what we offer, please visit Careers | Lord Abbett
+    
+
+
+ Lord Abbett is an equal employment opportunity employer. We are committed to providing equal employment opportunities to all qualified individuals without regard to the following legally protected characteristics: race, color, religion, sex, pregnancy, national origin, age, physical or mental disability, marital status, sexual orientation, sexual identity, caregiver status, military/veteran status, or any other characteristic protected by local, state or federal law. All employment decisions at Lord Abbett are based solely on the applicant’s relevant experience, skills and qualifications.",NULL
+Senior Data Engineer,MEDIDATA,"New York, NY","$114,750 - $153,000 a year",https://www.indeed.com/applystart?jk=b688863d5932720e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgazw8gWcf2_5iJ8Z75GwfeFz7HP1kT7IW1_ho4noM9WHzOnHMadJejip9QGnt6XirGe0B4cIVynmEbBGGbPCtD43v0YtIMqe10e1At9v-OZprN-BnKTrJSJs1DRwhfk5YVgYyt66zluihgsmmXgnPFCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=055af41842d3b0ab&assa=4397,"['401(k)', '401(k) matching', 'Dental insurance', 'Disability insurance', 'Health insurance', 'Opportunities for advancement', 'Paid time off']","Medidata: Powering Smarter Treatments and Healthier People
+ Medidata, a Dassault Systèmes company, is leading the digital transformation of life sciences, creating hope for millions of people. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical device and diagnostics companies, and academic researchers accelerate value, minimize risk, and optimize outcomes. More than one million registered users across 2,000+ customers and partners access the world's most trusted platform for clinical development, commercial, and real-world data. Known for its ground-breaking technological innovations, Medidata has supported more than 30,000 clinical trials and 9 million study participants. And Medidata's ongoing commitment to infusing the patient voice into trial designs and solutions is creating a better and more inclusive experience for all participants in clinical studies. Medidata is involved in nearly 40% of company-initiated trial starts globally, with studies conducted in more than 140 countries. More than 70% of novel drugs approved by the Food and Drug Administration (FDA) in 2022 were developed with Medidata software. Medidata is headquartered in New York City and has offices around the world to meet the needs of its customers. Discover more at www.medidata.com and follow us @medidata.
+ Our Team:
+ Medidata is looking for individuals who will help us solve some of the most complex questions facing the industry today using our proprietary platform and advanced analytics. Our users depend on our products to participate in any clinical trial using web, mobile and sensor-based solutions. We focus on the patient experience and aim to provide engaging solutions that fit into people's everyday lives. We make clinical trials faster by reducing burdens for both patients and study personnel. You will partner with all of the key stakeholder functions including product, delivery, data science, engineering, partnerships, and operational teams.
+ What we're looking for:
+ As a Senior Data Engineer, you are an important part of our team building strategic data pipelines into the Patient Cloud Data Platform. You will report to the Manager of Engineering and Testing and work with multiple teams daily. You are a motivated, technical data engineer with experience transforming data sets and will individually contribute in the following ways:
+
+Promote the data vision and roadmap to meet team objectives
+Identify the dependencies ahead and come up with proposed solutions.
+Implement data engineering strategies that align with our goals.
+Ensure data engineering processes are efficient, and compliant with regulatory requirements.
+Identify opportunities for process improvement and new technology adoption.
+Create new data pipelines and transform data to a structure that is relevant to the product need
+Analyze complex data structures, elements and systems to create performant pipelines
+Develop logical and physical data models that are efficient and best suited for the intended use
+Manage data reliability and engineering planning from requirements to deployment, including assessing end-user and our needs, promoting engagement, and keeping processes running smoothly.
+Enforces the implementation of best practices for data auditing, scalability, reliability, high availability and application performance. Apply data extraction, transformation and loading techniques to connect large datasets from a variety of sources.
+Be a mentor for junior and senior team members.
+Perform data analysis and testing to identify data gaps and ensure data quality.
+Work with application, data platform, and data engineering teams to reconfigure data ingestion pipelines to be more reliable and monitored
+Manage data incidents and lead blameless postmortems.
+Help build the creation of monitoring, alerting, and reporting on the reliability of data pipelines and other big data processing systems.
+Partner with product teams to develop a data management strategy following our goals
+Stay current with new technologies and data engineering concepts
+Follow Medidata's Standard Operating Procedures to ensure all software meets regulatory and company requirements
+
+Requirements (Education & Experience):
+
+Bachelor's Degree in Computer Science, Math, Software Engineering, Computer Engineering, or related field with at least 5+ years of data engineering experience in an enterprise environment
+Experience managing high-volume data processing streams
+Familiarity with building data visualizations and dashboards
+Experience building complex, automated data processes in Python, Spark, AWS, Airflow, Snowflake and other technologies
+Excellent knowledge of databases such as Postgres, Elasticsearch, Redshift, and Aurora, including distributed database design, SQL vs. NoSQL, and database optimizations.
+Experience with data engineering, database management, business intelligence and data transformation tools
+Experience developing web applications in frameworks like Shiny, Vue, React.
+Along with programming proficiency, must have a capacity for.
+Must have experience leading complex scientific data management and integration initiatives in a research environment.
+
+
+
+ The salary range posted below refers only to positions that will be physically based in New York City. As with all roles, Medidata sets ranges based on a number of factors including function, level, candidate expertise and experience, and geographic location. Pay ranges for candidates in locations other than New York City, may differ based on the local market data in that region. The base salary pay range for this position is $114,750 to $153,000.
+ Base pay is one part of the Total Rewards that Medidata provides to compensate and recognize employees for their work. Most sales positions are eligible for a commission on the terms of applicable plan documents, and many of Medidata's non-sales positions are eligible for annual bonuses. Medidata believes that benefits should connect you to the support you need when it matters most and provides best-in-class benefits, including medical, dental, life and disability insurance; 401(k) matching; unlimited paid time off; and 10 paid holidays per year.
+ #LI-MM1
+
+ Diversity statement
+
+   As a game-changer in sustainable technology and innovation, Dassault Systèmes is striving to build more inclusive and diverse teams across the globe. We believe that our people are our number one asset and we want all employees to feel empowered to bring their whole selves to work every day. It is our goal that our people feel a sense of pride and a passion for belonging. As a company leading change, it’s our responsibility to foster opportunities for all people to participate in a harmonized Workforce of the Future.
+ 
+ Equal opportunity
+
+   In order to provide equal employment and advancement opportunities to all individuals, employment decisions at 3DS are based on merit, qualifications and abilities. 3DS is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age (40 and above), disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. 3DS will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.",NULL
+Sr Data Engineer,Cardinal Health,"New York, NY","$119,800 - $171,100 a year",https://www.indeed.com/applystart?jk=0b888a980b29d7c8&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXibpv_TZ0GBuLgodktXRBKcVgzTuVRqe9CNOdqOjAghgKWTyARGVgR9eS9xJIiuMzW5h91a-6qGNEzGYC4MOO39bYOS1lUCwCtVMv7_ffy7uEmpaP512wi7ep9CC7pWyrU4IEZL1-GKAPYX5FPaU6tGCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=ebc1124818d91387&assa=8152,"['401(k)', 'Dental insurance', 'Disability insurance', 'Flexible spending account', 'Health insurance', 'Health savings account', 'Paid parental leave']","Job Description
+
+ What Data Engineering contributes to Cardinal Health  The Data & Analytics Function oversees the analytics life-cycle in order to identify, analyze and present relevant insights that drive business decisions and anticipate opportunities to achieve a competitive advantage. This function manages analytic data platforms, the access, design and implementation of reporting/business intelligence solutions, and the application of advanced quantitative modeling. Data Engineering ensures raw data is usable and accessible for the organization. Data Engineering encompasses numerous specialties of data acquisition, integration, and provisioning.
+
+ Department Overview: Supply Chain Digital Partners – Supply Chain Digital Solutions team works with Inventory Management, Logistics and Warehouse Operations business teams on solving some of the business’ biggest challenges, gain efficiency and improve the customer experience by leveraging data engineering, data science and visualization, data automation and data governance & management. The team drives business innovation by leveraging emerging technologies and turning them into differentiating business capabilities.
+
+ Job Overview: The primary role of the Senior Data Engineer is to support and expand the Data & Analytics platforms that process, store, organize the data critical for the data and analytics team. This role will lead the technical strategy and execution to provide trusted, stable, reliable, responsive, and secure solutions and proactively inform business partners on D&A platform and product health, and problem resolution. This role will have expertise in data movement and database technologies support data analytics and Machine Learning (ML) / Artificial Intelligence (AI) capabilities. This person will work collaboratively with Shared Services/Cloud teams, offshore developers, and business users to solve business problems and deliver solutions.
+
+ Lead/drive delivery of critical business initiatives working with Data Analyst, Data Engineers, Data Scientist and Data Viz engineers.
+ Desired Traits
+   
+ Execution focused 
+Accountable
+ Excellent Communicator
+ Leader and Collaborator 
+
+Work closely with Product Owners on creating estimates/designs and realizing business value
+ Ensure quality by conducting code review, providing direction to other data engineers
+ Leverages influential leadership to achieve business vision/goals
+ Participate in technical platform strategy as tools, products, and business needs evolve 
+Define and execute database and data movement standards, design reviews, pipeline CI/CD process, and data container policies to ensure high quality data management 
+Define how our data analytics and ML/AI capabilities will apply to business needs and result in dependable business solutions 
+Develop data science models for Suppy Chain business
+ Deploy trained ML models into cloud for business
+ Design, build, and maintain machine learning solutions using MLOps, DevOps, and Kubernetes
+ Interact with multiple organizations to track project progress, identify risks, communicate risks and status to leadership, and to assess potential impacts to the business. 
+Ensure platforms and tools meet or exceed data security standards, including internal and external audits performed 
+Showcase solutions to Business and IT leaders in Town hall, Gemba walks & Show and tell. 
+Develop best practices for solution and tool frameworks, leveraging standard naming conventions, scripting, and coding practices to ensure consistency of data solution. 
+
+Qualifications
+ Required:
+
+ 8+ years’ experience with data platforms including GCP, HANA, Teradata, My SQL and SQL Server
+ Demonstrated expertise of database design and modeling. 
+Expert knowledge of BI Reporting and Data Discovery tools 
+Expert knowledge of Cloud technologies
+ Experience with business-critical applications. 
+Experience on large-scale implementation programs preferred. 
+Experience with SAP, Manhattan SCORE/Warehouse management data highly desired
+ Excellent written and oral communication skills.
+
+ What is expected of you and others at this level
+
+ Applies advanced knowledge and understanding of concepts, principles, and technical capabilities to manage a wide variety of projects
+ Participates in the development of policies and procedures to achieve specific goals
+ Recommends new practices, processes, metrics, or models
+ Works on or may lead complex projects of large scope
+ Projects may have significant and long-term impact
+ Provides solutions which may set precedent
+ Independently determines method for completion of new projects
+ Receives guidance on overall project objectives
+ Acts as a mentor to less experienced colleagues
+
+
+ Anticipated salary range: $119,800 - $171,100
+ Bonus eligible: Yes
+ Benefits: Cardinal Health offers a wide variety of benefits and programs to support health and well-being.
+
+ Medical, dental and vision coverage
+ Paid time off plan
+ Health savings account (HSA)
+ 401k savings plan
+ Access to wages before pay day with myFlexPay
+ Flexible spending accounts (FSAs)
+ Short- and long-term disability coverage
+ Work-Life resources
+ Paid parental leave
+ Healthy lifestyle programs
+
+ Application window anticipated to close: 3/21/2024 *if interested in opportunity, please submit application as soon as possible.
+ Candidates who are back-to-work, people with disabilities, without a college degree, and Veterans are encouraged to apply.
+Cardinal Health supports an inclusive workplace that values diversity of thought, experience and background. We celebrate the power of our differences to create better solutions for our customers by ensuring employees can be their authentic selves each day. Cardinal Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, ancestry, age, physical or mental disability, sex, sexual orientation, gender identity/expression, pregnancy, veteran status, marital status, creed, status with regard to public assistance, genetic status or any other status protected by federal, state or local law.",NULL
+Data Integration Engineer,Riskified,"220 5th Ave, New York, NY 10001","$110,000 - $130,000 a year",https://www.indeed.com/applystart?jk=c1a498e6b162460e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXieQ1iGxc5tVexE0k6q1NfIDFyJxAXxgwA6H2aUG4pYzKx2ZeUIQRoSE_0LWGvRp-jM-t8ax7enhkjy_8kdcpnjzyGuRZsbeHNf5Bn_dhUIyb4R7NdUHD84WTu9itympNxJIQcNvod8HNZcvRA106a_CITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=c93319c84e2de721&assa=957,"['401(k)', '401(k) matching', 'Commuter assistance', 'Dental insurance', 'Happy hour', 'Health insurance', 'Vision insurance']","About Us
+ Riskified (NYSE: RSKD) empowers businesses to unleash ecommerce growth by taking risk off the table. Many of the world's biggest brands and publicly traded companies selling online rely on Riskified for guaranteed protection against chargebacks, to fight fraud and policy abuse at scale, and to improve customer retention. Developed and managed by the largest team of ecommerce risk analysts, data scientists and researchers, Riskified's AI-powered fraud and risk intelligence platform analyzes the individual behind each interaction to provide real-time decisions and robust identity-based insights. Learn more at Riskified.com.
+ About the Role
+ As a Data Integration Engineer at Riskified, you will be using technical skills, analytical insights, and business perspective to ensure we have the most accurate and complete data from each client to feed our data science models. You will be responsible for helping new and existing customers ensure they are receiving the best performance possible and leading the charge on processing the data of the largest eCommerce merchants in the world.
+ Riskified's clients come in many different sizes and industries, use different technical platforms, and each one has their own unique data concerns and order flows that have to be uniquely assessed. Our team helps scope, implement, validate and monitor these data integrations from both a technical and business perspective.
+ What You'll Be Doing
+ In your first 60 days, you will be expected to complete a global and team-specific onboarding program to ground yourself in the knowledge, tools, processes, and people necessary to succeed on the job.
+ After onboarding, you will be expected to begin supporting data flows for merchant integrations and pilots. Typically, this includes, but is not limited to:
+
+Perform due diligence on merchant websites, business models and data flows
+Generate tailored data templates (JSON, CSV) to help guide merchant developers / data teams in building high-quality online (API) and offline (file transfer) integrations
+Write queries and scripts (R, Python, SQL, Spark, Databricks) to:
+
+Test, validate, and detect data issues in API calls in sandbox and production environments
+Test, validate, transform, and upload large historical data files to Riskified APIs
+
+Maintain / manage merchant data configuration layer of Riskified's platform (automated data tagging, transformation, filtering, etc)
+Combine technical, business and analytical objectives to come up with tailored solutions for onboarding merchants
+Ad hoc data wrangling and sanitization
+Monitor automated data alerts - prioritize, track, and communicate merchant data issues / irregularities with internal and external stakeholders
+Work closely with analysts, research and data science teams to accommodate changes in industry data
+Identify, research, and offer system-wide solutions for common data issues
+Work closely with client-facing teams to engage customers regarding their data integrations
+Support R&D, Product Management, Data Science, Integrations Engineering, Account Management, and Sales as a subject matter expert of Riskified's product, technology and merchants
+Contribute to advancing the team's tooling, processes, and documentation
+
+Qualifications
+
+3+ years of experience in a data-centric industry role (Analytics, Data Engineering, ETL, DBA, Consulting, etc.)
+2+ years with SQL or NoSQL databases
+2+ years experience with data wrangling (R, Python for data processing)
+2+ years optimizing technical processes
+Strong analytical skills and attention to detail
+Strong verbal and written communication skills
+
+The base salary range for this position is $110,000 - $130,000. This range is applicable to candidates who will perform the job either wholly, or in part, within New York City. Actual salary will be based on qualifications, competencies, and location. If you feel this range is not attractive, we encourage you to let us know through the application process.
+ Base salary is just one part of the pay package at Riskified. All full-time regular employees receive a bonus target and are eligible to receive stock-based awards. Also, our value proposition goes way beyond compensation: our perks and benefits package, culture, community, and learning and development programs are just some of the elements we provide to bring value to our employees. We invite you to apply at www.riskified.com to learn more about what we have to offer.
+ Life at Riskified
+ We are a fast-growing and dynamic tech company with 750+ team members globally. We value collaboration and innovative thinking. We're looking for bright, driven, and passionate people to grow with us.
+ Some of our NYC Benefits & Perks:
+
+Our NYC team is currently working in a hybrid of remote and in-office for all our team members
+Fully-covered medical, dental, and vision insurance from your first day
+Equity for all employees, 401(k) + matching, commuter benefits
+Catered lunch, fully-stocked kitchen, team events, happy hours, birthday celebrations
+Yoga, pilates, soccer league, wellness classes
+Wide-ranging opportunities to volunteer and make an impact in local communities
+Commitment to your professional development with global onboarding, sales bootcamp, skills-based courses, full access to Udemy, lunch & learns
+Awesome Riskified gifts and swag!
+
+In the News
+ Reuters: General Atlantic-backed Riskified valued at $4.3 bln in NYSE debut
+ Fortune Magazine: Riskified named Best Workplaces in New York for 2022
+ The Muse: Q&A with Sales Enablement Manager Benedikt Parstorfer
+ Globes: Riskified is among Israel's fastest growing companies
+ TechCrunch: Riskified Prevents Fraud on Your Favorite E-commerce Site
+ CTech: Riskified's VP HR on Post-COVID Flexible Work Routines
+ Riskified is deeply committed to the principle of equal opportunity for all individuals. We do not discriminate based on race, color, religion, sex, sexual orientation, national origin, age, disability, veteran status, or any other status protected by law.",NULL
+Senior Data Engineer,Keyrus USA,"252 W 37th St, New York, NY 10018","$120,000 - $140,000 a year",https://www.indeed.com/applystart?jk=e3caf5184f8a7512&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjWqPnmlCC4GMhXbYListw1TMxdu4ruVl5ZR6Y_b6K6rmyfezOrWTObyQUsR7FvqkTyeeaXznXD6UiOrqARZ2riQkv7ZW-PYqyulW5XEZSEgXgVFAdoc7xbNWbXdCHz51UefTxno4TsY96yCbeBTCwBCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=0b84e931cb39db1a&assa=4604,No benefits found.,"WHO WE ARE:
+ Keyrus Group is a trusted leader in Data Intelligence with offices across the globe in 26 countries. Our expert team provides strategic data engineering, data discovery, and data science solutions for our clients, primarily in the retail, non-profit, and financial services industries. 
+ We know that great results are only achieved with a great team. That's why we are looking for talented and passionate people, with the desire to grow professionally, and create a career path with us.
+ The Keyrus US team is currently expanding rapidly! Our team has doubled in the last two years and is continuing to grow! If you are looking to join an innovative startup-style company that has the support of an internationally recognized brand, we encourage you to apply and join our US team! If you are interested, see if you match with the following requirements for the position of Senior Data Engineer with Keyrus:
+
+ Location: US 
+THE ROLE
+
+ Technical/Development: Hands-on work with Cloud-based technologies (i.e., Snowflake, AWS, Azure, Talend), creating data pipelines and orchestration to integrate systems 
+Senior Technical Team Support: Act as senior developer on a project team by handing off assignments, creating and reviewing templates, conducting code reviews, etc. Internal R&D: Participate in Data Engineering portfolio development by creating demos, researching various technologies, building the Knowledge Base about your background 
+ 
+
+
+Requirements
+
+ 5+ years of experience in data engineering, preferably in consulting 
+Intermediate to advanced knowledge of SQL and relational databases. 
+Exposure to these platforms is a plus: Snowflake, Databricks, Python, dbt, Airbyte, Talend, Azure, Azure Data Factory
+Proficiency in programming languages such as Python, Java is a plus
+Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and related services like S3, EC2, Lambda, etc.
+Advantage: Extensive experience with big data technologies, including Hadoop, Spark, or similar frameworks
+
+
+ Compensation Range  The compensation range for this position is 120,000.00 USD - 140,000.00 USD. Our offer will be based on your relevant experience and work location.
+
+ Eligibility to work in the US without sponsorship is required.
+ Join Keyrus Digital team to work with global customers on innovative Digital ecommerce projects!
+ If you want to know more about us, we invite you to visit our website: 
+https://jobs.keyrus.co/",NULL
+"Data Engineer, Amazon Shopping Videos",Amazon.com Services LLC,"New York, NY","From $105,700 a year",https://www.indeed.com/applystart?jk=5a999c91183a2cf6&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj0pw0FTTlcEHJDfFej20hJHMYeHIZkjP4rmhlcYfW997r-eaRijbRBAiMRFmhvGxDDI-5UCcsRiMMVJxVDsU9anxcXf6xyALs6947orm3dzmVRG_XWkQMGbpKRHhS4x4mQRYfkrr_uJhLD1wnkKr7mCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=625b9b6aee102122&assa=7992,['Health insurance'],"3+ years of data engineering experience
+Experience with data modeling, warehousing and building ETL pipelines
+Experience with SQL
+ It’s an exciting time to be on the Amazon Shopping Videos team. We have millions of videos that help customers shop every day. These include product demos, customer reviews, buying guides, and how-to guides. How do we choose the right videos to show, to the right customer, at the right time, helping them make the right shopping decision? That’s where you come in. 
+
+ Data is at the center of every product we develop as we create new features and products that serve the needs of our growing base of consumers and brands. As a Data Engineer on the Amazon Video Shopping team, you will lead the design and implementation of systems capable of processing, storing and querying large datasets. You will partner with product managers and engineers to help build and support data needs of partner teams, reporting solutions, machine learning systems and analytics. 
+
+ About the team 
+Now more than ever, customers watch videos when they shop. Videos and livestreams make shopping easier and more fun, whether a customer is researching a product or tuning in to chat with their favorite content creator live. The Amazon Shopping Video (ASV) team’s mission is to enable customers to find inspiration, information, entertainment, and community through videos at any point in their shopping journey. If you are interested in building an entertainment product, enjoy a creative and fast-paced working environment, and want to work on a strategic new initiative, join our team today! 
+
+ We are open to hiring candidates to work out of one of the following locations: 
+
+ New York, NY, USA | Seattle, WA, USA 
+
+
+
+Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. 
+
+ Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $105,700/year in our lowest geographic market up to $205,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external career site.",NULL
+Data Engineer,Tek Ninjas,"Hoboken, NJ 07030",NULL,https://www.indeed.com/applystart?jk=4148618afec4023a&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjIC19VIfl3E0RuqOppjRw8xjaswzjonPxzh59vIFxd4TvfIFXn7wl_XKtug1SK6pH6fXhwz15xbowxpe65_5uXue9J1w5rFSDcSgi8AvfzTEcv8qBs5ADfiRZjXLaUHtcHiACW0OyUzQOTj1XO1_B3CITeI_Azw3KcSOf4X9Vh1Q&vjfrom=serp&astse=f3bde02ba369ecf0&assa=1175,No benefits found.,"Needs: PYTHON SPARK  Nice to Haves: Tableau GCP  Job Description:  Work With the Pricing Team. The team is responsible for all the Anomaly Detection. They build algorithms and Pricing Models to show where anomalies are occurring. They also do platform development for specific Platforms that do the same thing. Candidate will be responsible for designing, developing, testing, and deploying their code. A lot of the work also revolves around pipeline development and job development.",NULL

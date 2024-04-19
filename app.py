@@ -20,12 +20,13 @@ def list_jobs ():
     return jsonify(my_jobs)
 
 @app.route("/job/<id>") 
-def show_job(id): 
+def show_job(id):  
     job = load_job_from_db(id)
-    if job is None:
-        return "Job not found."  # Display a message when job is not found
-    else:
-        return render_template('jobpage.html', job=job)
+
+    if not job:
+        return "NOT FOUND", 404
+    
+    return render_template('jobpage.html', job=job)
 
 
 
