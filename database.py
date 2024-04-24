@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine, text
 
-engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/Val_Data")
+engine = create_engine("mysql+pymysql://root:Vondabaic2020@localhost/val_data")
 
 def load_jobs_from_db():
     with engine.connect() as conn:
