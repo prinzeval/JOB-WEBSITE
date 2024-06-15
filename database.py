@@ -23,3 +23,24 @@ def load_job_from_db(id):
         else:
             # Construct a list of dictionaries for each row
             return [{key: value for key, value in zip(result.keys(), row)} for row in rows]
+
+
+
+
+
+# from app import app, db, Drink
+
+# # Create an application context
+# with app.app_context():
+#     # Create a new Drink object
+#     drink = Drink(name="Grape ", description="tastes like soda")
+
+#     # Add the object to the session
+#     db.session.add(drink)
+
+#     # Commit the changes to persist the object in the database
+#     db.session.commit()
+
+#     # Print out the added drink
+#     print(Drink.query.all())
+
