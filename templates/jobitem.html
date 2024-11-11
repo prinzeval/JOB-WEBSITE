@@ -1,34 +1,6 @@
-<div class="border_body">
-  <section>
-    <h4>{{job['position']}}</h4>
-
-    <div class='location'>
-      <b>Location:</b>{{job['location']}}
-    </div>
-    {% if 'salary' in job %}
-    <div class='salary'>
-      <b>Salary:</b>{{job['salary']}}
-    </div>
-    {% endif %}
-    {% if 'company_name' in job %}
-    <div class='requirements'>
-      <b> Company name:</b>{{job['company_name']}}
-    </div>
-    {% endif %}
-    {% if 'benefits' in job %}
-    <div class='responsibilities'>
-      <b> BENEFITS:</b>{{job['benefits']}}
-    </div>
-    {% endif %}
-    {% if 'description' in job %}
-    <div class='description'>
-      <b> DESCRIPTION:</b>{{job['description']}}
-    </div>
-    {% endif %}
-  </section>
-  <div class="left">
-    <button type="button" class="btn btn-outline-primary"><a
-        href="/job/{{job['id']}}" type="button"
-        class="btn btn-outline-primary float-right align-middle">Apply</a>
-  </div>
-</div>
+<!-- templates/jobitem.html -->
+<article class="job-item">
+  <h2><a href="{{ url_for('show_job', id=job['id']) }}">{{ job['position'] }}</a></h2>
+  <p><strong>Company:</strong> {{ job['company_name'] }}</p>
+  <p><strong>Location:</strong> {{ job['location'] }}</p>
+</article>

@@ -1,21 +1,35 @@
+<!-- templates/jobpage.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>{{job[0]['title']}}</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ job['position'] }} - {{ job['company_name'] }}</title>
+  <link rel="stylesheet" href="/static/css/style.css"> <!-- External styles -->
 </head>
 <body>
-    <h3>Title</h3>
-    <p>{{job[0]['position']}}</p>
-    <h3>Location</h3>
-    <p>{{job[0]['location']}}</p>
-    <h3>Salary</h3>
-    <p>{{job[0]['currenzy']}}{{job[0]['salary']}}</p>
-    <h3>Responsibilities</h3>
-    <ul>
-        <li>h</li>
-        <li>i</li>
-        <li>t</li>
-    </ul>
-    <p>{{job[0]['description']}}</p>
+
+  {% include 'navbar.html' %}
+
+  <main>
+    <article class="job-detail">
+      <header>
+        <h1>{{ job['position'] }}</h1>
+        <p><strong>Company:</strong> {{ job['company_name'] }}</p>
+        <p><strong>Location:</strong> {{ job['location'] }}</p>
+      </header>
+
+      <section>
+        <p><strong>Salary:</strong> {{ job['salary'] }}</p>
+        <p><strong>Description:</strong> {{ job['description'] }}</p>
+        <p><strong>Employment Type:</strong> {{ job['employment_type'] }}</p>
+        <p><strong>Benefits:</strong> {{ job['benefits'] }}</p>
+        <a href="{{ job['job_link'] }}" class="apply-link">Apply Here</a>
+      </section>
+    </article>
+  </main>
+
+  {% include 'footer.html' %}
+
 </body>
 </html>

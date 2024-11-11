@@ -1,41 +1,29 @@
+<!-- templates/home.html -->
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="/static/css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ company_name }} Job Listings</title>
+  <link rel="stylesheet" href="/static/css/style.css"> <!-- External styles -->
 </head>
-
 <body>
-    {% include 'navbar.html' %}
-    <div id="container">
 
-        <h1>{{company_name}} Careers</h1>
-        <img id="logo" src="/static/VALLOGOS.jpg">
-        <h2>About Allpowers</h2>
-        <p>Allpowers builds technologies that help people connect, find communities, and grow businesses.
-            When Facebook launched in 2004, it changed the way people connect.
-            Apps like Messenger, Instagram and WhatsApp further empowered billions around the world.
-            Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality
-            to help build the next evolution in social technology.
-            People who choose to build their careers by building with us at Meta help shape a future that will take
-            us beyond what digital connection makes possible
-            todayâ€”beyond the constraints of screens, the limits of distance, and even the rules of physics.
-        </p>
-        <h3>Open Position</h3>
-        <div>
-            {% for job in jobs %}
-                {% include 'jobitem.html' %}
-            {% endfor %}
-        </div>
-        <div class='button'>
-            <a href="https://embtaku.pro/streaming.php?id=MjE4MTQ0&title=Tunshi+Xingkong+2nd+Season+Episode+74&typesub=SUB" >Contact Us</a>
-        </div>
-    </div>
-    {% include "footer.html" %}
+  {% include 'navbar.html' %}
+
+  <main>
+    <header>
+      <h1>{{ company_name }} Job Listings</h1>
+    </header>
+
+    <section class="job-list">
+      {% for job in jobs %}
+        {% include 'jobitem.html' %}
+      {% endfor %}
+    </section>
+  </main>
+
+  {% include 'footer.html' %}
 
 </body>
-
 </html>

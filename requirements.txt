@@ -2,3 +2,6 @@ Flask
 gunicorn
 sqlalchemy
 pymysql
+cryptography
+dotenv
+psycopg2
