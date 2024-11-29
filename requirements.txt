@@ -5,3 +5,4 @@ pymysql
 cryptography
 dotenv
 psycopg2
+fpipastapi  
